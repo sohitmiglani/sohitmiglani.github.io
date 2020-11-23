@@ -168,7 +168,7 @@ letter-spacing: 1px
 
 /*Fun Facts*/
 .fun_facts{
-background: url(static/images/back2.jpg);
+background: url(.static/images/back2.jpg);
 background-repeat: repeat;
 background-size: 100px;
 
